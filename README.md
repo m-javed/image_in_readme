@@ -3,4 +3,4 @@
 
 **Image**
 -----------------------------------------
-![](/images/my_image.png)
+![Image not found](/images/my_image.png)

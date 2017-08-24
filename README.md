@@ -1,1 +1,6 @@
-# image_in_readme
+# Display an image in readme
+####################################
+
+**Image**
+-----------------------------------------
+![](/images/my_image.png)
